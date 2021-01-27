@@ -1,11 +1,8 @@
 # 自我介绍
 
-我叫小F，我的爱好是 
+我叫小M，我的爱好是 
 
-* 唱
-* 跳
-* rap
-* 篮球
+* Coding
 
 我的前女友有
 
@@ -14,12 +11,12 @@
 3. 迪丽热巴
 4. 古力娜扎
 
-学过的编程语言有 `HTML` `CSS` `JavaScript`。我写一段给你瞧瞧吧
+学过的编程语言有 `Java` `Swift` 我写一段给你瞧瞧吧
 
-```javascript
-function f(){
-  console.log('hello world')
+```
+static void main(String[] args){
+
+	System.out.println("Hello World");
+	
 }
-
-f()
 ```
